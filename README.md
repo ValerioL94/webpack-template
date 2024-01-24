@@ -1,2 +1,9 @@
 # webpack-template
-Basic template for webpack 
+
+Template for webpack
+
+-Setup github pages:
+git add dist && git commit -m "Initial dist subtree commit"
+
+-Useful dependencies:
+npm install date-fns --save
