@@ -2,7 +2,7 @@
 
 Template for webpack
 
-To start run:
+-To start run:
 npm install
 
 -Setup github pages:
